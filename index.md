@@ -17,13 +17,13 @@ _written only in French| Écrit uniquement en francais_
 ### Scientific Litterature Review | Compte Rendu Scientifique
 
 [Points Quantiques comme une source de Photon Unique](/projects/Compte Rendu/Compte Rendu 1.pdf) \
-_Quantums Dots as a source of single photon_ \
+_Quantums Dots as a source of single photon_ 
 
 [Avancements Quantiques en Sécurité](/projects/Compte Rendu/Compte Rendu 2.pdf) \
-_Quantum Leaps In Sécurity_ \
+_Quantum Leaps In Sécurity_ 
 
 [Les Démons qui Hantent la Thermodynamique](/projects/Compte Rendu/Compte Rendu 3.pdf) \
-_Deamons Haunting Thermodynamics_ \
+_Deamons Haunting Thermodynamics_
 
 ### Lab Report | Rapport de Lab
 
