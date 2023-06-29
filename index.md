@@ -5,7 +5,7 @@
 ## Data Science projects
 _Written in French and English_
 
-[Retail Salespeople Statistic](/sample_page)
+[Retail Salespeople Statistic]((https://colab.research.google.com/drive/19Lols8T9io12krZqG_ZwCL8GRgoPv0eq?usp=drive_link))
 
 
 ---
@@ -16,7 +16,7 @@ _written only in French| Écrit uniquement en francais_
 
 ### Scientific Litterature Review | Compte Rendu Scientifique
 
-[Points Quantiques comme une source de Photon Unique](https://colab.research.google.com/drive/19Lols8T9io12krZqG_ZwCL8GRgoPv0eq?usp=drive_link) \
+[Points Quantiques comme une source de Photon Unique](/projects/Compte_Rendu/Compte_Rendu_2.pdf) \
 _Quantums Dots as a source of single photon_ 
 
 [Avancements Quantiques en Sécurité](/projects/Compte_Rendu/Compte_Rendu_2.pdf) \
