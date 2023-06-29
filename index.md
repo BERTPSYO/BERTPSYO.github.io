@@ -48,6 +48,18 @@ _Millikan's Experiment_
 [Rayonnement Gamma](/projects/Rapport_de_Lab/Rayonnement_Gamma.pdf) \
 _Gamma Radiation_
 
+
+
 ### Physics assignement (needed to be solve using python) | Devoir de physique (devait être résolu avec python)
 
+
+[Formation d'un cristal 2D](/projects/Python/2D_cristal/) \
+_2D Cristal Formation simulation_
+
+
+[Lissage de Fourier](/projects/Python/Fourrier_Smoothing/) \
+_Fourier Spectral Smoothing_
+
+[Simulation du model d'ising avec une chaine de Markov](/projects/Python/Ising Model/) \
+_Ising Model Simulation using Markov Chain_
 
