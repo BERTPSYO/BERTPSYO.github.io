@@ -3,7 +3,7 @@
 ---
 
 #Some of my data Science projects\
-_Written in French and English_\
+_Written in French and English_
 
 [Retail Salespeople Statistic](/sample_page)
 
