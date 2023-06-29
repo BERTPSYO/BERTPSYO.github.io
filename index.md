@@ -2,7 +2,7 @@
 
 ---
 
-## Some of my data Science projects
+## Data Science projects
 _Written in French and English_
 
 [Retail Salespeople Statistic](/sample_page)
@@ -10,7 +10,7 @@ _Written in French and English_
 
 ---
 
-## Some of my Physics Projects | quelques uns de mes projets de Physics
+## Physics Projects | projets de Physiques
 _written only in French| Écrit uniquement en francais_
 
 
