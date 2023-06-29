@@ -42,7 +42,7 @@ _Heat Electricity equivalency_
 [Étude de la cohérence partielle](/projects/Rapport_de_Lab/Étude_de_la_cohérence_partielle.pdf) \
 _Study on partial coherence_
 
-[Expérience de Millikan](/projects/Rapport_de_Lab/Expérience_de_Millikan.pdf) \
+[Expérience de Millikan](/projects/Rapport_de_Lab/Experience_de_Millikan.pdf) \
 _Millikan's Experiment_
 
 [Rayonnement Gamma](/projects/Rapport_de_Lab/Rayonnement_Gamma.pdf) \
