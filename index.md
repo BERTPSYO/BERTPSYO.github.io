@@ -21,6 +21,6 @@ _written only in French| Écrit uniquement en francais_/
 ### Lab Report | Rapport de Lab
 
 
-### Physics assignement (needed to be solved using python) | Devoir de physique (devait être résolu avec python)
+### Physics assignement (needed to be solve using python) | Devoir de physique (devait être résolu avec python)
 
 
