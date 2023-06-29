@@ -5,7 +5,7 @@
 ## Data Science projects
 _Written in French and English_
 
-[Retail Salespeople Statistic]((https://colab.research.google.com/drive/19Lols8T9io12krZqG_ZwCL8GRgoPv0eq?usp=drive_link))
+[Retail Salespeople Statistic](https://colab.research.google.com/drive/19Lols8T9io12krZqG_ZwCL8GRgoPv0eq)
 
 
 ---
