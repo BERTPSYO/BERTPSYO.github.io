@@ -2,7 +2,7 @@
 
 ---
 
-#Some of my data Science projects\
+Some of my data Science projects\
 _Written in French and English_
 
 [Retail Salespeople Statistic](/sample_page)
@@ -10,5 +10,5 @@ _Written in French and English_
 
 ---
 
-#Some of my Physics Projects\
+Some of my Physics Projects\
 _written in French_
