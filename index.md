@@ -60,6 +60,6 @@ _2D Cristal Formation simulation_
 [Lissage de Fourier](/projects/Python/Fourrier_Smoothing/) \
 _Fourier Spectral Smoothing_
 
-[Simulation du model d'ising avec une chaine de Markov](/projects/Python/Ising Model/) \
+[Simulation du model d'ising avec une chaine de Markov](/projects/Python/Ising_Model/) \
 _Ising Model Simulation using Markov Chain_
 
