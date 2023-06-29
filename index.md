@@ -11,7 +11,8 @@ _Written in French and English_
 ---
 
 ## Some of my Physics Projects | quelques uns de mes projets de Physics
-_written only in French| Écrit uniquement en francais_
+_written only in French| Écrit uniquement en francais_/
+
 
 ### Scientific Litterature Review | Compte Rendu Scientifique
 
