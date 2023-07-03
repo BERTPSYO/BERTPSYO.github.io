@@ -67,7 +67,7 @@ _Ising Model Simulation using Markov Chain_
 ## Personals Projects
 
 [Video Game : Les Loups Garoux de Trois-Rivières](https://1drv.ms/f/s!Av-tPMj3YiovgZTmKF1YJ3YZHdoxlrQ?e=pZK0xl)
-_almost finished but sitll WIP, completely in French | presque finit mais encore en cours de dévelloppement , complètement en Francais_
+_almost finished but sitll WIP, completely in French | presque finit mais encore en cours de dévelloppement , complètement en Francais_ \
 _currently completely original except the music, image were created by me using stabble difusion | présentement complètement original excepté les musiques, les images ont été créer avec Statbble Diffusion_
 
 _Inspired from the card game : "The Werewolves of Millers Hollow" it is concieved to be played with a small number of player (up to 12) with a large number of roles all having different powers and ability | Inspirée du jeu de carte : "Les Loups garous de Thiecelieux", ce jeu est concue pour ce jouer avec un plus petit nombre de joueurs, mais avec un très grand nombres de roles tous avec des pouvoirs et habileté distinctes_
