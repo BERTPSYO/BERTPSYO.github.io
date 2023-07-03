@@ -3,10 +3,10 @@
 ---
 
 ## Data Science projects
-_Written in French and English_
+_Will be written mostly in English | Sera écrit majoritairement en Anglais_
 
 [Retail Salespeople Statistic](https://colab.research.google.com/drive/19Lols8T9io12krZqG_ZwCL8GRgoPv0eq)
-
+_Commentaries are almost all in French but there's a good description of what the assignement was, what I tried to accomplish and some result that i found. All of it in english at the beginning of this Notebook | La majorité des commentaires sont en Francais mais il y a une bonne description des critères du devoir, de ce que j'ai voulu accomplir et des résultats marquant que j'ai obeservé. Tout ca en anglais au début du NoteBook_
 
 ---
 
