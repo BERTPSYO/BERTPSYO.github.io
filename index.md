@@ -2,7 +2,7 @@
 
 ---
 
-## Data Science projects
+## Data Science projects | Projets de science des données
 _Will be written mostly in English | Sera écrit majoritairement en Anglais_
 
 [Retail Salespeople Statistic](https://colab.research.google.com/drive/19Lols8T9io12krZqG_ZwCL8GRgoPv0eq)
