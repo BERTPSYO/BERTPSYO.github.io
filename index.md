@@ -64,3 +64,13 @@ _Fourier Spectral Smoothing_
 [Simulation du model d'ising avec une chaine de Markov](/projects/Python/Ising_Model/) \
 _Ising Model Simulation using Markov Chain_
 
+## Personals Projects
+
+[Video Game : Les Loups Garoux de Trois-Rivières](https://1drv.ms/f/s!Av-tPMj3YiovgZTmKF1YJ3YZHdoxlrQ?e=pZK0xl)
+_almost finished but sitll WIP | presque finit mais encore en cours de dévelloppement_
+
+_Inspired from the card game : "The Werewolves of Millers Hollow" it is concieved to be played with a small number of player (up to 12) with a large number of roles all having different powers and ability | Inspirée du jeu de carte : "Les Loups garous de Thiecelieux", ce jeu est concue pour ce jouer avec un plus petit nombre de joueurs, mais avec un très grand nombres de roles tous avec des pouvoirs et habileté distinctes_
+
+
+
+
