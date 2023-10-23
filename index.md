@@ -7,7 +7,7 @@ _Will be written mostly in English | Sera écrit majoritairement en Anglais_
 
 [Loan Prediction API (Ongoing)](https://github.com/BERTPSYO/Loan_API_ML_Project)
 
-_Hosted in a GitHub Repo, this API use a trained ML algorithm (SGDClassifier) to see if a certain loan will be accepted or refused based on certain parameters. Use a Database of 6M of data of accepted and refused loan. Achieve an accuracy of ~99.95% and a AUC_ROC of ~99,97%. The main tech used and showcased are : Docker and FastAPI. Cette API est hébergée dans un repo GitHub et utilise un algorithme ML entraîné (SGDClassifier) pour déterminer si un prêt spécifique sera accepté ou refusé en fonction de certains paramètres. Il utilise une base de données de 6 millions de données de prêts acceptés et refusés. Il atteint une précision d'environ 99,95 % et une AUC_ROC d'environ 99,97 %. Les principales technologies utilisées et présentées sont : Docker et FastAPI.
+_Hosted in a GitHub Repo, this API use a trained ML algorithm (SGDClassifier) to see if a certain loan will be accepted or refused based on certain parameters. Use a Database of 6M of data of accepted and refused loan. Achieve an accuracy of ~99.95% and a AUC_ROC of ~99,97%. The main tech used and showcased are : Docker and FastAPI._ | _Cette API est hébergée dans un repo GitHub et utilise un algorithme ML entraîné (SGDClassifier) pour déterminer si un prêt spécifique sera accepté ou refusé en fonction de certains paramètres. Il utilise une base de données de 6 millions de données de prêts acceptés et refusés. Il atteint une précision d'environ 99,95 % et une AUC_ROC d'environ 99,97 %. Les principales technologies utilisées et présentées sont : Docker et FastAPI.
 
 
 
