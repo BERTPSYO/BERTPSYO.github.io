@@ -14,7 +14,13 @@ _Hosted in a GitHub Repo, this API use a trained ML algorithm (SGDClassifier) to
 
 [Retail Salespeople Statistic](https://colab.research.google.com/drive/19Lols8T9io12krZqG_ZwCL8GRgoPv0eq)
 
-_Commentaries are almost all in French but there's a good description of what the assignement was, what I tried to accomplish and some result that i found. All of it in english at the beginning of this Notebook_ | _La majorité des commentaires sont en Francais mais il y a une bonne description des critères du devoir, de ce que j'ai voulu accomplir et des résultats marquant que j'ai obeservé. Tout ca en anglais au début du NoteBook_
+_Data science project to analyze 33k questionnaires 
+Contains an exploratory Data Analysis to visualize and interpret the data. 
+Many Data Visualizations to show the most valuable findings using many plotting.
+Used clustering, dimensionality reduction algorithms, cluster mapping showing the 4 most impactful questions to the employment time clearly_ | _Projet de science des données pour analyser 33 000 questionnaires
+Comprend une analyse exploratoire des données pour visualiser et interpréter les données.
+De nombreuses visualisations de données pour présenter les résultats les plus significatifs en utilisant divers graphiques.
+Utilisation d'algorithmes de regroupement et de réduction de dimensionnalité, avec une cartographie des clusters montrant les 4 questions les plus impactantes sur le temps d'emploi de manière claire._
 
 ---
 
