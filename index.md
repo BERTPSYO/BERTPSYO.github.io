@@ -3,7 +3,7 @@
 ---
 
 ## Data Science projects | Projets de science des données
-_Will be written mostly in English | Sera écrit majoritairement en Anglais_
+_Will be written mostly in English_ | _Sera écrit majoritairement en Anglais_
 
 
 [House Price Market Statistical Analysis](https://colab.research.google.com/drive/1S56CqYI5UMdO3G8K0dpcl_gZAfAhWZL4#scrollTo=a76S6F9OPVw6)
@@ -26,7 +26,7 @@ _Data science project to analyze 33k questionnaires. Contains an exploratory Dat
 ---
 
 ## Physics Projects | projets de Physiques
-_written only in French| Écrit uniquement en francais_
+_written only in French_ | _Écrit uniquement en francais_
 
 
 ### Scientific Litterature Review | Compte Rendu Scientifique
@@ -80,7 +80,7 @@ _Ising Model Simulation using Markov Chain_
 
 ## Personals Projects
 
-[Video Game : Les Loups Garoux de Trois-Rivières](https://psy0.itch.io/the-werewolves-of-the-three-rivers) \
+[Video Game : Les Loups Garoux des Trois-Rivières](https://psy0.itch.io/the-werewolves-of-the-three-rivers) \
 _Finished but still updated, completely translated in French and English_ | _Finit mais encore mis à jour, complètement traduit en Francais et Anglais_ 
 
 _Completely original, image were created by me using stabble difusion_ | _Complètement original, les images ont été créer avec Stabble Diffusion_
