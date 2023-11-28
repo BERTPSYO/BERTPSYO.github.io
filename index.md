@@ -5,7 +5,14 @@
 ## Data Science projects | Projets de science des données
 _Will be written mostly in English | Sera écrit majoritairement en Anglais_
 
-[Loan Prediction API (Ongoing)](https://github.com/BERTPSYO/Loan_API_ML_Project)
+
+[House Price Market Statistical Analysis](https://colab.research.google.com/drive/1S56CqYI5UMdO3G8K0dpcl_gZAfAhWZL4#scrollTo=a76S6F9OPVw6)
+
+_This project demonstrates a robust application of statistical analysis techniques on real-world data. The analysis includes initial data exploration, regression analysis, hypothesis testing, and risk estimation. Key findings reveal distinct trends in housing prices in Canberra and the project also highlights the potential risks associated with investment. Despite challenges due to the lack of certain data types, innovative solutions were found to ensure comprehensive analysis. This project underscores my ability to adapt to data constraints and to apply a wide range of statistical methods effectively._ | _Ce projet démontre une application robuste des techniques d’analyse statistique sur des données du monde réel. L’analyse comprend l’exploration initiale des données, l’analyse de régression, les tests d’hypothèses et l’estimation des risques. Les résultats clés révèlent des tendances distinctes dans les prix de l’immobilier à Canberra et le projet met également en évidence les risques potentiels associés à l’investissement. Malgré les défis dus à l’absence de certains types de données, des solutions innovantes ont été trouvées pour assurer une analyse complète. Ce projet souligne ma capacité à m’adapter aux contraintes des données et à appliquer efficacement une large gamme de méthodes statistiques._
+
+
+
+[Loan Prediction API ](https://github.com/BERTPSYO/Loan_API_ML_Project)
 
 _Hosted in a GitHub Repo, this API use a trained ML algorithm (SGDClassifier) to see if a certain loan will be accepted or refused based on certain parameters. Use a Database of 6M of data of accepted and refused loan. Achieve an accuracy of ~99.95% and a AUC_ROC of ~99,97%. The main tech used and showcased are : Docker, MLflow and FastAPI._ | _Cette API est hébergée dans un repo GitHub et utilise un algorithme ML entraîné (SGDClassifier) pour déterminer si un prêt spécifique sera accepté ou refusé en fonction de certains paramètres. Il utilise une base de données de 6 millions de données de prêts acceptés et refusés. Il atteint une précision d'environ 99,95 % et une AUC_ROC d'environ 99,97 %. Les principales technologies utilisées et présentées sont : Docker, MLflow et FastAPI._
 
