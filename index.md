@@ -6,7 +6,7 @@
 _Will be written mostly in English_ | _Sera écrit majoritairement en Anglais_
 
 
-[House Price Market Statistical Analysis Notebook](https://colab.research.google.com/drive/1S56CqYI5UMdO3G8K0dpcl_gZAfAhWZL4#scrollTo=a76S6F9OPVw6)
+[House Price Market Statistical Analysis Notebook](https://colab.research.google.com/drive/1S56CqYI5UMdO3G8K0dpcl_gZAfAhWZL4?usp=sharing)
 
 [Statistical Analysis of Housing Prices: A Presentation of Main Findings](https://1drv.ms/p/s!Av-tPMj3YiovgZ3AKZq_KE4PCWtJpFI?e=P8veTf)
 
